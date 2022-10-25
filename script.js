@@ -49,7 +49,7 @@ const music_list = [
         img : './images/orange logo.jpg',
         name : 'Jingles',
         artist : 'ClintDVO',
-        music : './music/Jingles_Music.mp3'
+        music : './music/Vocals_Jingles.mp3'
     }
 ];
 
